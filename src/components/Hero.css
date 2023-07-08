@@ -1,0 +1,6 @@
+.hero-container{
+    display: flex;
+    padding: 100px;
+    background-color: #f8f7f2;
+    width: 100%;
+}
